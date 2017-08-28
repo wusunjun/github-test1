@@ -1,0 +1,6 @@
+c:\users\e-property group\documents\visual studio 2015\Projects\MySolution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\e-property group\documents\visual studio 2015\Projects\MySolution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\e-property group\documents\visual studio 2015\Projects\MySolution1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\e-property group\documents\visual studio 2015\Projects\MySolution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\e-property group\documents\visual studio 2015\Projects\MySolution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\e-property group\documents\visual studio 2015\Projects\MySolution1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
